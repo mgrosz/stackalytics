@@ -3434,6 +3434,17 @@
             ],
             "user_name": "Zhongyue Luo",
             "emails": ["lzyeval@gmail.com", "zhongyue.nah@intel.com"]
+        },
+        {
+            "launchpad_id": "maty-grosz",
+            "companies": [
+                {
+                    "company_name": "Alcatel-Lucent",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Maty Grosz",
+            "emails": ["maty.grosz@alcatel-lucent.com", "imdg24@gmail.com"]
         }
     ],
     "companies": [
